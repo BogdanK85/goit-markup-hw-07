@@ -230,9 +230,9 @@ body {
     letter-spacing: 0.02em;
     color: var(--navy-blue-color);
 }
-.mobile-menu-address-list {
+/* .mobile-menu-address-list {
 
-}
+} */
 .mobile-menu-contact-phone {
     font-family: 'Roboto';
     font-style: normal;
@@ -310,16 +310,17 @@ body {
 }
 
 
-.mobile-media {
-    /* position: absolute;
-    bottom: 40px; */
-    /* display: flex;
+/* .mobile-media {
+    position: absolute;
+    bottom: 40px;
+    display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
     max-width: 328px;
-    height: 40px; */
-}
+    height: 40px;
+} */
+
 /* ======= Tablet-menu======== */
 .container {
     max-width: 1158px;
@@ -331,36 +332,14 @@ body {
     border-bottom: 1px solid var(--cornflower-color);
 }
 
-
-
-
-
-
 .menu-item:hover,
 .menu-item:focus {
     color: var(--ocean-color);
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ======= Section Hero ======= */
-.hero.section {
+/* .hero.section {
     max-width: 1440px;
     height: 600px;
     margin-left: auto;
@@ -371,14 +350,13 @@ body {
     background-size: cover;
     background-position: center;
     padding: 188px 0;
-}
-.section {
+} */
+/* .section {
     padding: 120px 0px;
-}
-.hero .container {
-    text-align: center;
-}
-.main-title {
+} */
+
+
+/* .main-title {
     margin-bottom: 48px;
     font-weight: 700;
     font-size: 56px;
@@ -386,9 +364,9 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: var(--white-color);
-}
+} */
 
-.modal-btn {
+/* .modal-btn {
     display: inline-block;
     padding: 16px 32px;
     min-width: 169px;
@@ -415,7 +393,7 @@ body {
 .modal-btn:focus {
     color: var(--white-color);
     background-color: var(--ocean-color);
-}
+} */
 
 /* ======= Section 2 ======= */
 
